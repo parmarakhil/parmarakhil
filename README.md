@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋  , I'm Akhil</h1>
 <h3 align="center">Automation enthusiast and a passionate software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parmarakhil" alt="parmarakhil" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=parmarakhil" alt="parmarakhil" />
+  <img src="https://badges.pufler.dev/repos/parmarakhil" alt="parmarakhilrepos" /> 
+  <img src="https://badges.pufler.dev/years/parmarakhil" alt="parmarakhilyears" />
+</p>
 
 - 🔭 I’m currently working on [My portfolio](https://github.com/parmarakhil/akhilparmar2496.github.io)
 
