@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">Automation enthusiast and a passionate software developer</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=parmarakhil" alt="parmarakhil" />
+  <img src="https://komarev.com/ghpvc/?username=parmarakhil&color=brightgreen" alt="parmarakhil" />
   <img src="https://badges.pufler.dev/repos/parmarakhil" alt="parmarakhilrepos" /> 
   <img src="https://badges.pufler.dev/years/parmarakhil" alt="parmarakhilyears" />
 </p>
