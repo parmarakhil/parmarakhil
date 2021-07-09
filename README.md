@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://badges.pufler.dev/years/parmarakhil" alt="parmarakhilyears" />
 </p>
 
-- 🔭 I’m currently working on [My portfolio](https://github.com/parmarakhil/akhilparmar2496.github.io)
+- 🔭 I’m currently working on [My portfolio](https://github.com/parmarakhil/parmarakhil.github.io)
 
 - 🌱 I’m currently learning **spring-boot, angular**
 
