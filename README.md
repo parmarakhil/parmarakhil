@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **spring-boot, angular**
 
-- 📫 How to reach me **akhilparmar2496@gmail.com**
+- 📫 Reach me **akhilparmar2496@gmail.com**
 
 - ⚡ Fun fact **Travel over desk** 🧗‍♂️
 
