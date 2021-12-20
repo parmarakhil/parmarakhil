@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [My portfolio](https://parmarakhil.github.io/)
 
-- 🌱 I’m currently learning **spring-boot, angular**
+- 🌱 I’m currently learning **spring-boot, angular** , kafka**
 
 - 📫 Reach me **akhilparmar2496@gmail.com**
 
