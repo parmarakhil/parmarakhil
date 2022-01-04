@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there 👋 I'm Akhil</h1>
 <h3 align="center">Automation enthusiast and a passionate software developer 👨‍💻</h3>
-
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=parmarakhil&color=brightgreen" alt="parmarakhil" />
-  <img src="https://badges.pufler.dev/repos/parmarakhil" alt="parmarakhilrepos" /> 
-  <img src="https://badges.pufler.dev/years/parmarakhil" alt="parmarakhilyears" />
+  <img src="https://img.shields.io/badge/LinkedIn-1.9k-blue?style=social&logo=linkedin" alt="akhil linkedin follow" />
+  <img src="https://img.shields.io/github/followers/parmarakhil?style=social" alt="akhil github followers" />
+    <img src="https://img.shields.io/twitter/follow/akhilparmar2496?style=social" alt="akhil twitter followers" />
+  <img src="https://komarev.com/ghpvc/?username=parmarakhil&color=BEBEBE" alt="parmarakhil" />
+  <img src="https://badges.pufler.dev/repos/parmarakhil?color=BEBEBE" alt="parmarakhilrepos" /> 
+  <img src="https://badges.pufler.dev/years/parmarakhil?color=BEBEBE" alt="parmarakhilyears" />
 </p>
 
 - 🔭 I’m currently working on [My portfolio](https://parmarakhil.github.io/)
@@ -41,3 +43,11 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/parmarakhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parmarakhil" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/akhil-parmar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="akhil-parmar" height="30" width="30" /></a>
 </p>
+
+📫Connect with me:
+
+
+[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/parmarakhil/) 
+[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/akhilparmar2496) 
+[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:akhilparmar2496@gmail.com)
+[<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">](https://www.instagram.com/superboi_akki/)
