@@ -43,9 +43,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/parmarakhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parmarakhil" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/akhil-parmar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="akhil-parmar" height="30" width="30" /></a>
 </p>
-
 📫Connect with me:
-
 
 [<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/parmarakhil/) 
 [<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/akhilparmar2496) 
