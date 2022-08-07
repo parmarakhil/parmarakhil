@@ -18,7 +18,7 @@ Here are some ideas to get you started:
          width="45" /> I'm Akhil</h1>
 <h3 align="center">Automation enthusiast and a passionate software developer 👨‍💻</h3>
 <p align="center"> 
-  <img src="https://img.shields.io/badge/LinkedIn-1.9k-blue?style=social&logo=linkedin" alt="akhil linkedin follow" />
+  <img src="https://img.shields.io/badge/LinkedIn-2.9k-blue?style=social&logo=linkedin" alt="akhil linkedin follow" />
   <img src="https://img.shields.io/github/followers/parmarakhil?style=social" alt="akhil github followers" />
     <img src="https://img.shields.io/twitter/follow/akhilparmar2496?style=social" alt="akhil twitter followers" />
   <img src="https://komarev.com/ghpvc/?username=parmarakhil&color=BEBEBE" alt="parmarakhil" />
@@ -27,9 +27,11 @@ Here are some ideas to get you started:
   <img src="https://badges.pufler.dev/years/parmarakhil?color=BEBEBE" alt="parmarakhilyears" />
 -->
 </p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=parmarakhil&theme=vision-friendly-dark&no-frame=true&no-bg=true&title=Commit&row=1&column=1" alt="Akihl's github commit counter" /></p>
 
-- 🔭 I’m currently working on [My portfolio](https://parmarakhil.github.io/)
-
+- 🔭 I’m currently working on [My portfolio](https://parmarakhil.github.io/) and grinding LeetCode to strengthen my DSA and programming skills.
+- 💡 Ask me about `Java`, `Camunda BPM`, `AWS` , `Automation` `Kafka` `spring boot` and `REST API`s!
 - 🌱 I’m currently learning **spring, angular , docker , kubernetes ,kafka**
 
 - ⚡ Fun fact **Travel over desk** 🧗‍♂️
@@ -55,17 +57,23 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="50" height="50"/>
 </p>
-
+<br>
+<p  align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parmarakhil&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Akihl's github stats streak" />
+</p>
+<br>
 <p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmarakhil&layout=compact&hide=html&theme=vision-friendly-dark" alt="Akhil's github language stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parmarakhil&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Akihl's github stats streak" /></p>
-
+</p>
+<br>
 <p  align="center"><img  src="https://github-readme-stats.vercel.app/api?username=parmarakhil&show_icons=true&theme=vision-friendly-dark" alt="Akhil's github stats" /></p>
 <p></p>
 
+<!--
 <p align="center">
 <a href="https://linkedin.com/in/parmarakhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parmarakhil" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/akhil-parmar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="akhil-parmar" height="30" width="30" /></a>
 </p>
+-->
 📫Connect with me:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/parmarakhil/) 
